@@ -1,9 +1,9 @@
 const links = {
   github: 'GabrielM-afk',
-  youtube: 'rabisco',
+  youtube: 'undefined',
   facebook: 'gabrielmartins',
   instagram: 'm.ga.briel',
-  twitter: 'jackelinytec'
+  twitter: 'undefined'
 }
 
 function changeSocialMediaLinks() {
